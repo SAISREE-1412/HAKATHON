@@ -11,7 +11,7 @@ Table of predictions
 Histogram of fraud probabilities
 Pie chart of fraud/genuine jobs
 Top-10 suspicious jobs
-🛠️ Technologies Used
+🛠 Technologies Used
 Python
 Scikit-learn
 Pandas
@@ -24,4 +24,3 @@ Steps : file -> uplod file -> select each csv file -> click on open.
 Access both CSV file from the given link :
 "jobs.csv" - https://drive.google.com/file/d/1PdXqLRKmAoopar97sikErz2iMqEbI_--/view?usp=sharing
 "jobs_test.csv" - https://drive.google.com/file/d/1lwoPGO1pOrMiXwn6caLM4yCkBBUbFmh8/view?usp=sharin
-
